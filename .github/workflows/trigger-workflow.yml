@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 11 * * *'
 
 jobs:
   call_reusable_workflow:
@@ -13,7 +13,6 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-
     with:
       # trigger_page_build == true only when pushing to main branch
       trigger_page_build: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
