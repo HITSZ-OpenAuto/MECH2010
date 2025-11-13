@@ -1,0 +1,158 @@
+ID: "MECH2010"
+SimilarID: []
+Name: "机械设计基础"
+CourseProperty:
+  - Year: "2019_2020"
+    Major:
+      - Name: ["自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "MECH2010"
+    CourseName: "机械设计基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "平时成绩"
+        Percentage: "30"
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
+
+  - Year: "2020_2021"
+    Major:
+      - Name: ["自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "MECH2010"
+    CourseName: "机械设计基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "平时成绩"
+        Percentage: "30"
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
+
+  - Year: "2021_2022"
+    Major:
+      - Name: ["自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "MECH2010"
+    CourseName: "机械设计基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "平时成绩"
+        Percentage: "30"
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
+
+  - Year: "2022_2023"
+    Major:
+      - Name: ["自动化", "电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "MECH2010"
+    CourseName: "机械设计基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "平时成绩"
+        Percentage: "30"
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
+
+  - Year: "2023_2024"
+    Major:
+      - Name: ["电气", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "MECH2010"
+    CourseName: "机械设计基础"
+    Credit: "2.5"
+    CourseHour: "40.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "平时成绩"
+        Percentage: "30"
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "期末考试"
+        Percentage: "50"
+    CourseHourComposition:
+      - Name: "课时构成元素1"
+        Hour: ""
+      - Name: "课时构成元素2"
+        Hour: ""
