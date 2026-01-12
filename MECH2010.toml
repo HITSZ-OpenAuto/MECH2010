@@ -1,0 +1,18 @@
+course_name = "机械设计基础"
+course_code = "MECH2010"
+notices = ""
+lecturers = []
+textbooks = []
+online_resources = []
+course = []
+exam = []
+advice = []
+schedule = []
+related_links = []
+
+[[misc]]
+content = "成绩构成：平时成绩30%，作业20%，期末考试50%。"
+[misc.author]
+name = ""
+link = ""
+date = ""
