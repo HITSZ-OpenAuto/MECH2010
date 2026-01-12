@@ -1,0 +1,15 @@
+# 成绩构成中的“平时成绩”和“作业”是分开列出的，但通常作业会包含在平时成绩中。此处根据徽章的独立展示，将其视为两个独立部分。
+course_name: "机械设计基础"
+course_code: "MECH2010"
+notices: ""
+grading:
+  0000: "平时成绩(30%) + 作业(20%) + 期末考试(50%)"
+teachers: []
+textbooks: []
+online_resources: []
+about_course: []
+about_exam: []
+study_advice: []
+schedule: []
+related_links: []
+misc: []
