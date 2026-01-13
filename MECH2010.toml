@@ -1,0 +1,13 @@
+course_name = "机械设计基础"
+course_code = "MECH2010"
+notices = ""
+lecturers = []
+textbooks = []
+online_resources = []
+course = []
+exam = []
+lab = []
+advice = []
+schedule = []
+related_links = []
+misc = []
