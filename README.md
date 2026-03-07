@@ -1,4 +1,6 @@
 # MECH2010 - 机械设计基础
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![平时成绩30%](https://img.shields.io/badge/平时成绩-30%25-wheat)
