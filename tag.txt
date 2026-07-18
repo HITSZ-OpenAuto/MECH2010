@@ -1,3 +1,0 @@
-category: 归档
-semester: 第三学年秋季
-name: 机械设计基础
